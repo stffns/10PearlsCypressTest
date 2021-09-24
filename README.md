@@ -9,6 +9,6 @@ npm install
 npx cypress open
 ```
 
-Select OrderTests.spec.js and see the results
+Execute OrderTests.spec.js and see the results
 
 Thanks for the oportunity

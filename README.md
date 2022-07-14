@@ -10,5 +10,3 @@ npx cypress open
 ```
 
 Execute OrderTests.spec.js and see the results
-
-Thanks for the oportunity

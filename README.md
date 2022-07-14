@@ -1,4 +1,4 @@
-# 10PearlsCypressTest
+# CypressTest
 
 ### Aplication testing orders functions in cypress for the page http://automationpractice.com/
 
